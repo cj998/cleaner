@@ -1,0 +1,10 @@
+# 배포에는 쓰는 사람에게 필요한 것만 — 정리기 화면 · rules/ · data/ (사용자가 정함 2026-11-14)
+# 나머지는 모두 뺀다. 아래 목록에 있는 것만 올라간다.
+/*
+!/index.html
+!/app.js
+!/clean.js
+!/style.css
+!/lib
+!/rules
+!/data
